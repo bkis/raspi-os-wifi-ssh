@@ -7,7 +7,9 @@
 
 This simple **bash** script helps with the process of setting up WiFi connectivity and enabling SSH at boot time for headless installs of [Raspberry Pi OS Lite](https://downloads.raspberrypi.org/raspios_lite_armhf/images).
 
-> 👉 This script is supposed to be run on a desktop computer (not on the Pi) with the freshly flashed Raspberry Pi OS **SD card inserted and mounted**.
+> 👉 You can download Raspberry Pi OS Lite [here](https://downloads.raspberrypi.org/raspios_lite_armhf/images/). Just make sure you select the current release and then download extract the `.zip` archive to get the OS image `.iso` file you can then [install to your SD card](https://www.raspberrypi.org/documentation/installation/installing-images/).
+
+> ⚠ This script is supposed to be run on a desktop computer (not on the Pi) with the freshly flashed Raspberry Pi OS **SD card inserted and mounted**.
 
 ```
 > Raspberry Pi OS Lite (headless) WiFi and SSH setup script
